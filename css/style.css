@@ -103,6 +103,10 @@ Works
   width: 31%;
   margin-bottom: 23px;
 }
+.works-img {
+  aspect-ratio: 13/9;
+  object-fit: cover;
+}
 
 /*-------------------------------------------
 News
